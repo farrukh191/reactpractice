@@ -1,0 +1,47 @@
+
+
+.container{
+  width: 50%;
+  height: 400px;
+  
+  margin:5% auto;
+}
+
+.loginout{
+  width: 100%;
+  height: 50px;
+  
+  
+}
+.loginout button{
+  height: 50px;
+  width: 20%;
+}
+.signin{
+  padding: 0;
+  
+  width: 100%;
+  height: 350px;
+  
+  top: 10px;
+  background-color: seagreen;
+}
+
+.signup{
+  padding: 0;
+ 
+  width: 100%;
+  height: 350px;
+  background-color:darkmagenta;
+}
+
+.signup h1, .signin h1{
+  text-align: center;
+  padding-top: 20%;
+}
+
+
+#txtdecor{
+  list-style-type: none;
+ text-decoration: none;
+}
